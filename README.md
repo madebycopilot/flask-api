@@ -12,6 +12,7 @@ A simple REST API built by Github Copilot itself without my intervention. Uses F
     - Code formatting and linting
     - The code poses security threats
     - If Copilot thinks about world domination
+    - Credentials, API keys, passwords, etc.
 - You can choose code from Github Copilot solutions for more flexibility
 
 ### How to run this app?
